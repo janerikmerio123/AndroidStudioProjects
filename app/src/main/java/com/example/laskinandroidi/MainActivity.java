@@ -77,4 +77,5 @@ public class MainActivity extends AppCompatActivity {
         String answer = Integer.toString(result);
         textOutput.setText(answer);
     }
+
 }
